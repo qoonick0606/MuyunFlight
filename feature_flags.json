@@ -4,8 +4,7 @@
   "search_mushroom": {
     "enabled": false,
     "message": "搜尋蘑菇功能目前未開放，原因不詳。",
-    "allowed_device_ids": [
-    ],
+    "allowed_device_ids": [],
     "blocked_device_ids": [],
     "blocked_versions": [],
     "require_allowlist": false,
