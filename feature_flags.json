@@ -5,7 +5,7 @@
     "enabled": false,
     "message": "搜尋蘑菇功能目前未開放，原因不詳。",
     "allowed_device_ids": [
-      MF-QDAH-F3A8-S5FH-S9K7
+      "MF-QDAH-F3A8-S5FH-S9K7"
     ],
     "blocked_device_ids": [],
     "blocked_versions": [],
