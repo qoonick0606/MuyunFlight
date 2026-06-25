@@ -2,7 +2,7 @@
   "app_name": "MuyunFlight",
   "updated_at": "2026-06-25",
   "search_mushroom": {
-    "enabled": true,
+    "enabled": false,
     "message": "搜尋蘑菇功能目前未開放，原因不詳。",
     "allowed_device_ids": [
       "MF-QDAH-F3A8-S5FH-S9K7"
